@@ -1,5 +1,5 @@
-![Repository Banner](headerimage.png)
-#### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
+![Repository Banner](https://github.com/araguaci/design-resources-for-developers/blob/master/headerimage.png?raw=true)
+#### Please read [`contributing guidelines`](https://github.com/bradtraversy/design-resources-for-developers/blob/master/contributing.md) before submitting new resources.
 
 ## Table of Contents
 
